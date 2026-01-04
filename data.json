@@ -1,0 +1,7 @@
+{
+	"name": "Rahul",
+	"age": 22,
+	"course": "IT",
+	"city": "Pune",
+	"skills": ["Python", "Java", "SQL"]
+}
